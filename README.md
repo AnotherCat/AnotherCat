@@ -1,6 +1,4 @@
-
-
-I'm a high schooler from aotearoa, new zealand
+I'm a high schooler from aotearoa, new zealand  
 Pronouns are he/they
 
 [![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true)](https://github.com/AnotherCat)  
