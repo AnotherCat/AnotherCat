@@ -2,14 +2,14 @@
 
 ## About me
 
-I'm a high schooler from aotearoa, new zealand, with an intrest in coding.  
-Pronouns are He/They
+I'm a high schooler from aotearoa, new zealand
+Pronouns are he/they
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherCat)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat)](https://github.com/anuraghazra/github-readme-stats)
+[![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true)](https://github.com/AnotherCat)
+[![AnotherCat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherCat)](https://github.com/AnotherCat)
+[![AnotherCat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat)](https://wakatime.com/@AnotherCat)
 
 ## My Projects
 
