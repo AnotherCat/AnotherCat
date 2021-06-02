@@ -1,9 +1,9 @@
 I'm a high schooler from aotearoa, new zealand  
 Pronouns are they/them
 
-[![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true)](https://github.com/AnotherCat)  
-[![AnotherCat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat)](https://wakatime.com/@AnotherCat)  
-[![AnotherCat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherCat)](https://github.com/AnotherCat)  
+[![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true&theme=dark)](https://github.com/AnotherCat)  
+[![AnotherCat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat&theme=dark)](https://wakatime.com/@AnotherCat)  
+[![AnotherCat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherCat&theme=dark)](https://github.com/AnotherCat)  
 
 I am currently working on [AnotherCat/message-bot](https://github.com/AnotherCat/message-bot)
 <!--
