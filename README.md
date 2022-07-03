@@ -7,7 +7,7 @@ Pronouns are they/he
 
 I am currently working on [message manager](https://github.com/message-manager-discord/bot)
 
-I’m currently learning JavaScript and Lua
+I’m currently learning JavaScript
 
 How to reach me: anothercat1259@gmail.com
 
