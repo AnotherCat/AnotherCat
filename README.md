@@ -1,5 +1,5 @@
 I'm from aotearoa, new zealand  
-Pronouns are they/them
+Pronouns are they/he
 
 [![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true&theme=dark)](https://github.com/AnotherCat)  
 [![AnotherCat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat&theme=dark)](https://wakatime.com/@AnotherCat)  
