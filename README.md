@@ -1,28 +1,18 @@
-I'm from aotearoa, new zealand  
-Pronouns are they/he
+# About me
+Kia Ora! I'm a software student from NZ, studying software engineering. 
 
-[![AnotherCat's github stats](https://github-readme-stats.vercel.app/api?username=AnotherCat&count_private=true&show_icons=true&theme=dark)](https://github.com/AnotherCat)  
-[![AnotherCat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnotherCat&theme=dark)](https://wakatime.com/@AnotherCat)  
-[![AnotherCat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnotherCat&theme=dark)](https://github.com/AnotherCat)  
+I've got a website here: [anothercat.me](https://anothercat.me)
 
-I am currently working on [message manager](https://github.com/message-manager-discord/bot)
+## Projects
 
-I’m currently learning JavaScript
+My main projects so far have been based around discord, for example [message manager](https://github.com/message-manager-discord)
 
-How to reach me: anothercat1259@gmail.com
+I've also made some smaller level bots for custom purposes, [TicketThreadBot](https://github.com/PlaygunTim/TicketThreadBot), and [interactions-proxy](https://github.com/AnotherCat/interactions-proxy) (ongoing).
+
+I've dabbled in game design as a high school project https://github.com/AnotherCat/dtc-level-2-game
+
+## Contact
+
+How to reach me: anothercat1259@gmail.com, or `anothercat` on discord. 
 
 Fun fact: I actually do like cats 🐈
-<!--
-**AnotherCat/AnotherCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
